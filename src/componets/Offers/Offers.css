@@ -1,0 +1,36 @@
+.offers {
+    align-items: center;
+    justify-content: space-evenly;
+    width: 150vh;
+    height: 80vh;
+    display: flex;
+    margin: auto;
+    margin-top: 50px;
+    padding: 0px 140px;
+    background: linear-gradient(180deg, #fde1ff, #e1ffea22 60%);
+}
+
+.offers p {
+    color: #171717;
+    font-weight: 700;
+    margin: 0;
+}
+
+.offers-left button {
+    height: 70px;
+    width: 282px;
+    border-radius: 25px;
+    background: #ff4141;
+    color: black;
+    font-size: 22px;
+    font-weight: 500;
+    margin-top: 30px;
+    cursor: pointer;
+}
+
+.offers-right img {
+    flex: 1;
+    align-items: center;
+    justify-content: flex-end;
+    padding-top: 50px;
+}
