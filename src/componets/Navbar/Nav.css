@@ -72,6 +72,10 @@
      align-items: center;
  }
 
+ .navbar-logo img {
+     width: 110px;
+ }
+
  .search-bar {
      display: flex;
      align-items: center;
@@ -188,7 +192,7 @@
          top: 70px;
          left: 0;
          width: 100%;
-         padding: 20px 0;
+         padding: 10px 0;
          box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
          z-index: 100;
      }
@@ -196,5 +200,40 @@
 
      .nav-menu-visible {
          display: flex;
+     }
+ }
+
+ @media(max-width:500px) {
+     .navbar {
+         width: 8px 0px;
+         gap: 5px;
+         align-items: center;
+         justify-content: center;
+     }
+
+     .navbar-logo img {
+         height: 60px;
+         width: 80px;
+     }
+
+     .navbar-logo {
+         transform: scale(0.8);
+     }
+
+     .search-bar input {
+         width: 100px;
+     }
+
+     .navbar-menu {
+         height: 40px;
+         top: 60px;
+     }
+
+     .navbar-login-cart button {
+         width: 80px;
+     }
+
+     .navbar-login-cart {
+         transform: scale(0.8);
      }
  }
