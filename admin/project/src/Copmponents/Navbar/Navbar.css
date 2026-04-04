@@ -1,0 +1,59 @@
+body {
+    margin: 0;
+    padding: 0;
+    /* overflow-x: hidden; */
+}
+
+.navbar {
+    height: 70px;
+    width: 100%;
+    padding: 15px 60px;
+    box-shadow: 0 1px 3px -2px #000;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    margin-bottom: 1px;
+    background-color: white;
+    max-width: 1390px;
+
+}
+
+.logo {
+    display: flex;
+    gap: 20px;
+}
+
+.admin-paragraph {
+    margin-top: 40px;
+    color: red;
+}
+
+.nav-logo {
+    height: 70px;
+    width: 80px;
+}
+
+.nav-profile {
+    height: 70px;
+    width: 70px;
+    border-radius: 50%;
+
+}
+
+.drop-downicon {
+    margin-bottom: 30px;
+}
+
+@media(max-with:800px) {
+    .navbar {
+        padding: 15px 30px;
+    }
+
+    .nav-logo {
+        width: 150px;
+    }
+
+    .nav-profile {
+        width: 60px;
+    }
+}
