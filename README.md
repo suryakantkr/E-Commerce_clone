@@ -1,20 +1,40 @@
-# Getting Started with Create React App
+# Smart Shopping E-Commerce Website
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+## Project Overview
 
-In the project directory, you can run:
+The Smart Shopping E-Commerce Website is a full-stack web application developed to provide users with a smooth and secure online shopping. The platform allows customers to browse products, create accounts, log in securely, add products to the cart, and manage their profiles.
 
-### `npm start`
+In this project, I handled the complete development process including:
+Frontend Development
+Backend Development
+Admin Panel Management
+Database Integration
+Authentication & Authorization
+API Integration
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+### Technologies Used
+Frontend Technologies
+1. HTML
+2. CSS
+3. JavaScript
+4. React.js
+Backend Technologies
+1. Node.js
+2. Express.js
+Database
+1. User data
+2. Products details
+3. Cart informaton
+Authentication & Security
+1. User Login & Signup System
+2. JWT Authentication
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+### How it looks.
 
-### `npm test`
+<img width="1896" height="895" alt="image" src="https://github.com/user-attachments/assets/9bb12066-661b-48e0-a491-0f578fb17925" />
+
 
 Launches the test runner in the interactive watch mode.\
 See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
