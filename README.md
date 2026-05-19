@@ -1,5 +1,5 @@
 # Smart Shopping E-Commerce Website
-C:\Users\surya\OneDrive\Desktop\E_Commerce_clone\front-end\public\S_Logo.png
+
      
 
 ## Project Overview
@@ -15,19 +15,19 @@ Authentication & Authorization
 API Integration
 
 ### Technologies Used
-Frontend Technologies
+
 1. HTML
 2. CSS
 3. JavaScript
 4. React.js
-Backend Technologies
+
 1. Node.js
 2. Express.js
-Database
+
 1. User data
 2. Products details
 3. Cart informaton
-Authentication & Security
+
 1. User Login & Signup System
 2. JWT Authentication
 
