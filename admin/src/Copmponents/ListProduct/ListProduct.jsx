@@ -18,7 +18,6 @@ const ListProduct = () => {
             headers: {
                 Accept: 'application/json',
                 'Content-Type': 'application/json',
-                // 'Content-Type': 'applicatin/json',
             },
             body: JSON.stringify({ id: id })
         })

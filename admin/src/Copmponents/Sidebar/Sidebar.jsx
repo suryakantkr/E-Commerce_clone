@@ -1,6 +1,6 @@
 import './Sidebar.css';
 import {Link} from 'react-router-dom';
-import add_product_icon from "../../Assets/cart_icon.png";
+import add_product_icon from "../../assets/cart_icon.png";
 import product_list from '../../assets/logo.png'
 
 const Sideba=()=>{

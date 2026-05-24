@@ -1,5 +1,5 @@
 import './AddProduct.css';
-import upload_area from '../../assets/upload-button-icon.jpg';
+import upload_area from '../../assets/upload-button-icon.jpeg';
 import { useState } from 'react';
 const AddProduct = () => {
     const [image, setImage] = useState(false);

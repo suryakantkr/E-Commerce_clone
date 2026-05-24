@@ -1,6 +1,6 @@
 import React from "react";
 import Navbar from "./Copmponents/Navbar/Navbar";
-import Admin from './Pages/Admin/Admin';
+import Admin from './Pages/Admin';
 const App=()=>{
   return(
     <div>

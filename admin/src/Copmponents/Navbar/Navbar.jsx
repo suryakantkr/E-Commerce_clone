@@ -2,7 +2,7 @@ import React from "react";
 import "./Navbar.css";
 import navlogo from '../../assets/Smart.png'
 import navProfile from '../../assets/Admin_Surya.jpeg';
-import dropdouwn_icon from '../../Assets/dropdown_icon.png';
+import dropdouwn_icon from '../../assets/dropdown_icon.png';
 
 const Navbar = () => {
     return (
