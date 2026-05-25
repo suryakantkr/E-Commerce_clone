@@ -1,6 +1,6 @@
-##  Smart Shopping E-Commerce Website
+#Smart Shopping E-Commerce Website
 
-### Project Overview
+## Project Overview
 “I developed a full-stack Smart Shopping E-Commerce Website where I handled both frontend and backend development. 
  I used React.js for building responsive user interfaces and Node.js with Express.js for backend APIs. MongoDB was 
  used as the database for storing users, products, and order data. I also implemented login/signup authentication, 
@@ -10,26 +10,26 @@
 ##  Technologies Used
 
 ##  Frontend Technologies.
-1.HTML
-2.CSS
-3.JAVASCRIPT
-3.REACK.JS(framework)
+*HTML
+*CSS
+*JAVASCRIPT
+*REACK.JS(framework)
 
 ##  Backend Technologies.
-1.Node.js
-2.Express.js
+*Node.js
+*Express.js
 
 ##  Database.
-1.MongoDB
-2.Database
+*MongoDB
+*Database
 
 ##  Authentication & Security.
-1.User Login & Signup System
-2.Authorization & Unauthorized
+*User Login & Signup System
+*Authorization & Unauthorized
 
 ##  Admin Panel Features.
-1.New Products add
-2.Old Products remove
+*New Products add
+*Old Products remove
 
 ## How its Looks. 
 
@@ -57,11 +57,11 @@ How its look in Mobile/Phone.
 <img width="550" height="896" alt="Screenshot 2026-05-19 185820" src="https://github.com/user-attachments/assets/b21a9aaa-1b17-42bb-8cbc-7e0cfa5336f1" />
 <img width="547" height="892" alt="Screenshot 2026-05-19 185840" src="https://github.com/user-attachments/assets/2c05d786-0b9a-432a-b040-d0ec9182a482" />
 
-## I developed the complete frontend interface using React.js with reusable components and responsive design principles.
+### I developed the complete frontend interface using React.js with reusable components and responsive design principles.
 
-## I developed RESTful APIs and handled server-side operations using Node.js and Express.js.
+### I developed RESTful APIs and handled server-side operations using Node.js and Express.js.
 
-## The project includes a secure login system with authentication and authorization mechanisms.
+### The project includes a secure login system with authentication and authorization mechanisms.
 
 ## Author
 Developed with dedication and passion by SuryaKant Kumar.
