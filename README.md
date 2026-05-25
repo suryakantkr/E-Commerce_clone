@@ -1,4 +1,4 @@
-#Smart Shopping E-Commerce Website
+## Smart Shopping E-Commerce Website
 
 ## Project Overview
 “I developed a full-stack Smart Shopping E-Commerce Website where I handled both frontend and backend development. 
@@ -10,26 +10,26 @@
 ##  Technologies Used
 
 ##  Frontend Technologies.
-*HTML
-*CSS
-*JAVASCRIPT
-*REACK.JS(framework)
+1. HTML
+2. CSS
+3. JAVASCRIPT
+4. REACK.JS(framework)
 
 ##  Backend Technologies.
-*Node.js
-*Express.js
+1. Node.js
+2. Express.js
 
 ##  Database.
-*MongoDB
-*Database
+1. MongoDB
+2. Database
 
 ##  Authentication & Security.
-*User Login & Signup System
-*Authorization & Unauthorized
+1. User Login & Signup System
+2. Authorization & Unauthorized
 
 ##  Admin Panel Features.
-*New Products add
-*Old Products remove
+1. New Products add
+2. Old Products remove
 
 ## How its Looks. 
 
@@ -54,8 +54,9 @@ Add Products.
 <img width="1884" height="903" alt="image" src="https://github.com/user-attachments/assets/e7b06b27-222a-4672-b556-d3e3539e8556" />
 
 How its look in Mobile/Phone.
-<img width="550" height="896" alt="Screenshot 2026-05-19 185820" src="https://github.com/user-attachments/assets/b21a9aaa-1b17-42bb-8cbc-7e0cfa5336f1" />
+
 <img width="547" height="892" alt="Screenshot 2026-05-19 185840" src="https://github.com/user-attachments/assets/2c05d786-0b9a-432a-b040-d0ec9182a482" />
+<img width="550" height="896" alt="Screenshot 2026-05-19 185820" src="https://github.com/user-attachments/assets/b21a9aaa-1b17-42bb-8cbc-7e0cfa5336f1" />
 
 ### I developed the complete frontend interface using React.js with reusable components and responsive design principles.
 
